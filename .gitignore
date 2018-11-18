@@ -1,0 +1,6 @@
+# dotenv environment variables file
+.env
+./four_pattern_fog/node_modules
+./ref
+node_modules
+
